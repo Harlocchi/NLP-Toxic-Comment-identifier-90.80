@@ -5,7 +5,6 @@ Este é um classificador de comentários tóxicos baseado em técnicas de Proces
 
 ## Funcionalidades
 - Classificação de comentários como tóxicos ou não tóxicos.
-- Interface simples para entrada de texto ou arquivo.
 - Visualização de métricas de desempenho do modelo.
 
 ## Requisitos de Instalação
@@ -14,4 +13,4 @@ Este é um classificador de comentários tóxicos baseado em técnicas de Proces
 
 ## Como Usar
 1. Clone o repositório para o seu ambiente local.
-2. Instale as dependências usando pip:
+2. Instale as dependências usando pip install -r requirements.txt:
